@@ -1,8 +1,3 @@
-hazme un programa en JS con las siguientes características:
-- EL juego tienen que tener un INPUT en el que se introduce un número de 1 a 9
-- El juego se inicia con una cuenta atrás de 10 segundos. Cuando se acaba la cuenta atrás tiene que verificar si el número aleatorio y el número introducido por el usuario coinciden. Si coinciden pondrá un mensaje en el DOM que diga: "has salvado el mundo" y sino un mensaje que diga "la bomba ha estallado,. con un emoji de una bomba"
-
-
 # Bomba Game
 
 ## Descripción
